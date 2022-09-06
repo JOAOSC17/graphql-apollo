@@ -1,4 +1,4 @@
-name: deploy-hackernews-app-heroku                       
+name: api-clone-hackernews                       
 
 on:
   push:
